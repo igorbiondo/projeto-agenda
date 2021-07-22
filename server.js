@@ -1,5 +1,3 @@
-// 11:26
-
 require('dotenv').config(); // variáveis de ambiente
 
 const express = require('express');
